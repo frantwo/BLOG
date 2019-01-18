@@ -5,6 +5,9 @@ date:   2016-03-12 19:51:01
 categories: blog  
 ---
 
+Este post fue hecho antes de la publicación del blog. Y es que a veces las intenciones son buenas pero no se acaban materializando :)  
+Aún así como me ha resultado gracioso volverlo a leer todo, lo dejo como muestra de pensamiento propio:
+
 Aquí estoy de camino a Corea del Sur de nuevo e inicio la primera entrada a mi blog. Durante un vuelo de 12 horas lleno de películas, comida coreana y mucho tiempo libre.
 La verdad es que la idea de hacer este blog ya nació con [Senpai Devs](http://senpaidevs.com/) y sus ilustres fundadores. Una de las cosas que ha cambiado mi vida profesional y que agradeceré eternamente.
 Pero voy a empezar la historia por el principio... 

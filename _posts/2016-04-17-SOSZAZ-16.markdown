@@ -5,6 +5,7 @@ date:   2016-04-17 17:16:38
 categories: blog  
 ---
 
+
 Un año más he asistido al [SOSZ16](http://sosz16.cachirulovalley.com/). Evento que me encanta por el formato que tienen las conferencias. En el que son los participantes al evento los que proponen temas, además de ser ellos mismos los moderadores del foro que puedan generar, en caso de que el tema que planteen sea elegido por votación popular.
 Evento organizado por [Cachirulo Valley](http://cachirulovalley.com/), este grupo de personas siempre lo hace de forma genial y organizada. La camiseta de este año me ha encantado, y con la comida no hay queja (¿de dónde sacásteis esas pastas de dulce de leche? jejeje)
 Los temas de este año fueron de lo más variopinto. Desde las charla de Open Source, en la que los chicos de [8kdata](https://www.8kdata.com/) nos hablaron de su producto [ToroDB](https://www.8kdata.com/torodb). Hasta la charla de Marketing Online, en la que se dieron auténticas clases magistrales de estrategia online por parte de los miembros de [Outreachtool.com](http://www.outreachtool.com/):
