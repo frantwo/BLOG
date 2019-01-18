@@ -10,10 +10,10 @@ exclude:
 
 # Site settings
 title: FRANCHO GARCIA
-subtitle: "El mono más listo no es siempre es el más fuerte"
+subtitle: Para mejorar nuestro conocimiento debemos aprender menos y contemplar más. (René Descartes)
 email: franchog79@gmail.com
 name: Francho García
-description: >
+description: Diseñador de software, enamorado de la creatividad y curioso por naturaleza.
   Mi primer blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
