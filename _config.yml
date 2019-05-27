@@ -93,16 +93,9 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Francho García
+    url: https://www.linkedin.com/in/francho-garcia-villarroya-9515b518/
     desc: Connect with me on LinkedIn
-    share: true
-
-  - name: Google+
-    icon: google-plus
-    username:
-    url:
-    desc: Add me to your Circles
     share: true
 
   - name: YouTube
@@ -173,7 +166,7 @@ social:
     username:
     url:
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news
