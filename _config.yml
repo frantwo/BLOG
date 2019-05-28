@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: FRANCHO GARCIA
+title: BLOG FRANCHO GARCIA
 subtitle: Para mejorar nuestro conocimiento debemos aprender menos y contemplar más. (René Descartes)
 email: franchog79@gmail.com
 name: Francho García
@@ -48,11 +48,11 @@ disqus_shortname: franchogarcia
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: Blog
+    desc: "Posts describing my experiences."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: Ironhack
+    desc: "Post describing my expecience into the IronHack Bootcamp"
 
 # Social icons and sharing options
 #
