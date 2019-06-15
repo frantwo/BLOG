@@ -2,6 +2,7 @@
 layout: post  
 title:  "¡HOLA MUNDO!"  
 date:   2016-03-12 19:51:01
+tags: blog
 categories: blog  
 ---
 

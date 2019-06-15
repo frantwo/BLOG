@@ -2,7 +2,8 @@
 layout: post  
 title:  sosz 2016  
 date:   2016-04-17 17:16:38
-categories: blog  
+categories: blog
+tags: blog
 ---
 
 
