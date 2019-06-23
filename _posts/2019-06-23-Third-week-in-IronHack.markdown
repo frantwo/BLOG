@@ -21,7 +21,7 @@ Viniendo de un entorno con un IDE tan completo como Visual Studio .NET me ha gus
 En la parte de testing hemos trabajado con [Jazmine](https://github.com/jasmine/jasmine) y aunque también nos comentaron sobre Mocha, todas las prácticas han sido testeadas con Jazmine. Si que parece interesante la siguiente [comparativa](https://www.codementor.io/codementorteam/javascript-testing-framework-comparison-jasmine-vs-mocha-8s9k27za3) entre ambos frameworks.
 ![qualityOfCode]({{site.url}}{{site.baseurl}}/blog_images/qualityofcode.png)
 
-Y lo más creativo y divertido del primer módulo ha sido el uso de [Canvas](https://www.html5canvastutorials.com/). Para el que tuvimos que hacer nuestor primer [videojuego](https://frantwo.github.io/tankgame/). Un poco complicado sobre todo por el tema de coordenadas invertidas, pero con mucha potencia sobre todo en el tema de visualización de datos.
+Y lo más creativo y divertido del primer módulo ha sido el uso de [Canvas](https://www.html5canvastutorials.com/). Para el que tuvimos que hacer nuestor primer [videojuego](https://frantwo.github.io/TankGame/). Un poco complicado sobre todo por el tema de coordenadas invertidas, pero con mucha potencia sobre todo en el tema de visualización de datos.
 
 La siguiente semana empezamos el módulo de Back-End...
 ¡VAMOS!
