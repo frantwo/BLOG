@@ -1,15 +1,15 @@
 ---
-layout: post  
-title:  sosz 2016  
-date:   2016-04-17 17:16:38
-categories: blog
-tags: blog
+layout: post
+title: sosz 2016
+date: 2016-04-17 17:16:38
+categories: congresos
+tags: congresos
 ---
-
 
 Un año más he asistido al [SOSZ16](http://sosz16.cachirulovalley.com/). Evento que me encanta por el formato que tienen las conferencias. En el que son los participantes al evento los que proponen temas, además de ser ellos mismos los moderadores del foro que puedan generar, en caso de que el tema que planteen sea elegido por votación popular.
 Evento organizado por [Cachirulo Valley](http://cachirulovalley.com/), este grupo de personas siempre lo hace de forma genial y organizada. La camiseta de este año me ha encantado, y con la comida no hay queja (¿de dónde sacásteis esas pastas de dulce de leche? jejeje)
 Los temas de este año fueron de lo más variopinto. Desde las charla de Open Source, en la que los chicos de [8kdata](https://www.8kdata.com/) nos hablaron de su producto [ToroDB](https://www.8kdata.com/torodb). Hasta la charla de Marketing Online, en la que se dieron auténticas clases magistrales de estrategia online por parte de los miembros de [Outreachtool.com](http://www.outreachtool.com/):
+
 1. ¿quién soy?
 2. Segmentar público objetivo.
 3. Matching distintos grupos anteriores.
@@ -18,7 +18,7 @@ Los temas de este año fueron de lo más variopinto. Desde las charla de Open So
 En la que webs como [MassDrop.com](https://www.massdrop.com/) fueron el objetivo de la charla.
 Muy interesante también la charla de Comunicación (Patrones y Antipatrones). En la que me pareció muy interesante la idea de una comunicación que fomenta la organización horizontal y la comunicación transparente en la empresa. Por mi parte, participé en esta charla dando mi punto de vista sobre la aplicación de ésto en fábricas con una estructura jerárquica tradicional y con un número de empleados del orden de 200 personas. Pese a que el concepto es envidiable (y deseable desde mi punto de vista), el rechazo en este tipo de medioambientes es muy fuerte, así como la necesidad por parte de los jefes de departamento de mantener el "liderazgo" mediante la falta de comunicación. Barrera que hace que este tipo de empresas estén abogadas al fracaso por lo poco ágiles que les hace ser debido a una falta total de comunicación interdepartamental.
 
-Respecto a las amistades hechas, como siempre este evento es uno de los mejores del año. Gente con un nivel técnico altísimo, con una generosidad tremenda a la hora de compartir opiniones y conocimientos. Aunque como es evidente el evento está centrado en las Startups, las que para mi son toda una novedad, siempre aprendo cosas nuevas y me mantienen al tanto de un modelo de negocio al que admiro y respeto totalmente. 
+Respecto a las amistades hechas, como siempre este evento es uno de los mejores del año. Gente con un nivel técnico altísimo, con una generosidad tremenda a la hora de compartir opiniones y conocimientos. Aunque como es evidente el evento está centrado en las Startups, las que para mi son toda una novedad, siempre aprendo cosas nuevas y me mantienen al tanto de un modelo de negocio al que admiro y respeto totalmente.
 
 Un abrazote.
 F.G.
